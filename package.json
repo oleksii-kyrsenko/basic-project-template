@@ -20,7 +20,7 @@
 	"bugs": {
 		"url": "https://github.com/oleksii-kyrsenko/basic-project-template-restapi/issues"
 	},
-	"homepage": "https://github.com/oleksii-kyrsenko/basic-project-templat-restapie#readme",
+	"homepage": "https://github.com/oleksii-kyrsenko/basic-project-template-restapi#readme",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"concurrently": "^5.1.0",
