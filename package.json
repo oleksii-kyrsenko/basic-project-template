@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/oleksii-kyrsenko/basic-project-template.git"
+		"url": "git+https://github.com/oleksii-kyrsenko/basic-project-template-restapi.git"
 	},
 	"keywords": [],
 	"author": "Oleksii Kyrsenko",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/oleksii-kyrsenko/basic-project-template/issues"
+		"url": "https://github.com/oleksii-kyrsenko/basic-project-template-restapi/issues"
 	},
-	"homepage": "https://github.com/oleksii-kyrsenko/basic-project-template#readme",
+	"homepage": "https://github.com/oleksii-kyrsenko/basic-project-templat-restapie#readme",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"concurrently": "^5.1.0",
